@@ -15,8 +15,11 @@ public class JavaP {
 		search.sendKeys("FlowerLamp");
 		WebElement submit=driver.findElement(By.xpath("//span[@class='js-submit-icon cicon cicon-search-fill']"));
 		submit.click();
+		WebElement lam=driver.findElement(By.xpath("//span[@class='js-submit-icon cicon cicon-search-fill']"));
+		lam.click();
 		WebElement l=driver.findElement(By.xpath("//span[@class='js-submit-icon cicon cicon-search-fill']"));
 		l.click();
+
 		
 		
 }
