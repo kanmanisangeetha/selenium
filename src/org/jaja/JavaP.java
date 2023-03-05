@@ -19,7 +19,8 @@ public class JavaP {
 		lam.click();
 		WebElement l=driver.findElement(By.xpath("//span[@class='js-submit-icon cicon cicon-search-fill']"));
 		l.click();
-
+ejegjuy
+fwhurgfua
 		
 		
 }
